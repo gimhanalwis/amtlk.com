@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Anura Motor Trading(Pvt)Ltd</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/creative.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Anura motors Trading</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#product">Products</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      </nav>
+      
+      <header class="masthead7 text-center text-white d-flex">
+      <div class="container my-auto">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h1 class="text-uppercase">
+              <strong>404 Not Found!</strong>
+            </h1>
+            <hr>
+              <div class="col-lg-8 mx-auto">
+            <p class="text-faded mb-5">The Page you requested could not be found.</p>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="index.php">Back to home</a>
+          </div>
+          </div>
+        </div>
+      </div>
+      </header>
+      
+      <section class="bg-dark text-white" id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading">Contact Us</h2>
+            <hr class="my-4 light">
+            <p class="mb-5">One of the largest importers and distributors of used japan automotive spare parts & Engines in Sri Lanka</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <form id="contactForm" name="sentMessage" novalidate="novalidate">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
+                  <div id="success"></div>
+                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div><br>      
+        <div class="row">
+          <div class="col-lg-3 mx-auto text-center">
+            <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
+            <p>+94 81 231 0189<br>+94 81 375 3230<br>+94 81 231 4190</p>
+          </div>
+          <div class="col-lg-3 mx-auto text-center">
+            <i class="fa fa-map-marker fa-3x mb-3 sr-contact"></i>
+            <p>
+              No. 64, Kandy Road, Weligalle, Gampola, Sri Lanka,20500.
+            </p>
+          </div>
+        <div class="col-lg-3 mx-auto text-center">
+            <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
+            <p>
+              <a href="mailto:amtpvtltd@gmail.com">amtpvtltd@gmail.com</a>
+            </p>
+          </div>
+        <div class="col-lg-3 mx-auto text-center">
+            <i class="fa fa-facebook fa-3x mb-3 sr-contact"></i>
+            <p>
+              <a href="https://www.facebook.com/Health-1st-Fitness-center-182266305852008/">Facebook.com</a>
+            </p>
+          </div>      
+        </div>
+      </div>
+    </section>    
+    
+    <!-- Map -->
+    <section  class="map p-0">
+      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d294.21258807868793!2d80.59373305892743!3d7.190878496499506!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e9126cadc82d594!2sAnura+Motors!5e0!3m2!1sen!2sus!4v1540557947284"></iframe>
+      <br/>
+      <small>
+        <a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d294.21258807868793!2d80.59373305892743!3d7.190878496499506!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e9126cadc82d594!2sAnura+Motors!5e0!3m2!1sen!2sus!4v1540557947284"></a>
+      </small>
+    </section>
+    
+    <!-- Footer -->
+    <footer class="footer text-center p-0 bg-dark">
+      <div class="container"><br><br>
+        <p class="text-muted small mb-0 ">Copyright &copy; Anura Motor Trading(Pvt)Ltd 2018.Designed by <a href="mailto:gimhan.kalhara4@gmail.com">G-Kay Solutions.</a></p><br>
+      </div>
+    </footer>  
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>  
+
+    
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
+
+  </body>
+
+</html>
